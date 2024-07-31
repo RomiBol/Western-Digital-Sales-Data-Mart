@@ -1,5 +1,5 @@
 # Western Digital Sales Data Mart
-This repository is dedicated to the final project in the BI developer and system analyst training at Experis Academy. The project focuses on developing an end-to-end BI solution for Western Digital's sales department.
+This repository is dedicated to the final project in the BI Developer and System Analyst training at Experis Academy. The project focuses on developing an end-to-end BI solution for Western Digital's sales department.
 
 ## Project Overview
 Project Requirments and Specifications: 
