@@ -3,8 +3,8 @@ This repository is dedicated to the final project in the BI Developer and System
 
 ## Project Overview
 Project Requirments and Specifications: 
--Data exploration and Data Mart Planning
--Documentation - ERD Model Planning, Source-to-Target mapping
+- Data exploration and Data Mart Planning
+- Documentation - ERD Model Planning, Source-to-Target mapping
 
 **Data Mart Development:**
 - ETL processes development in SSIS, including the three layers: Mirror, Staging, and Data Warehouse. These processes involved data extraction from the operational database (priorityERP), data transformation, and loading data into the final tables in the Data Mart. 
