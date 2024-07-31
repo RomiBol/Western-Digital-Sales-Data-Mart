@@ -2,7 +2,7 @@
 This repository is dedicated to the final project in the BI Developer and System Analyst training at Experis Academy. The project focuses on developing an end-to-end BI solution for Western Digital's sales department.
 
 ## Project Overview
-Project Requirments and Specifications: 
+**Project Specifications:**
 - Data exploration and Data Mart Planning
 - Documentation - ERD Model Planning, Source-to-Target mapping
 
