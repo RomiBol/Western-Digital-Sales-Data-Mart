@@ -14,12 +14,12 @@ The final Data Mart includes one fact table, four dimension tables, and two hist
 **Power BI Reports:** 
 - Constructing the final ERD model.
 - Creating calculated columns and measures in DAX.
-- Visualization development as part of the final reports (Customers Trend Analysis, Sales Analysis, Executive Dashboard).
+- Visualizations development as part of the final reports (Customers Trend Analysis, Sales Analysis, Executive Dashboard).
 
 
 **Repository Contents**
 - Western Digital Data Mart - Specifications Document.pdf: Detailed documentation of end-to-end processes, objectives, and specifications. 
 - Sales_DataMart_WesternDigital.pbix: Designed Reports & Dashboard.
-- S2T Mapping - Western Digital DM.xlsx: Elaborate mapping of columns from the operational DB to the final columns in the Data Mart.
+- S2T Mapping - Western Digital DM.xlsx: Detailed mapping of columns from the operational DB to the final columns in the Data Mart.
 - Gantt-Western Digital Sales Project.xlsx: Project's timeline and milestones.
 - ERD_WDSales_DataMart.PNG: Depicting the relationships between dimension tables and fact table in the final Data Mart.
